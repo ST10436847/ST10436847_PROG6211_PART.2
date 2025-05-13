@@ -1,4 +1,3 @@
-# ST10436847_PROG6211_PART.2
 # St10436847 PROG6221 Part.2 Chatbot
 
 Cybersecurity Awareness Chatbot
